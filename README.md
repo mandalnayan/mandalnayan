@@ -12,11 +12,11 @@
         <li>💻 <strong>Software Developer</strong> at <strong>IB Arts</strong></li>
         <li>🚀 Passionate about building creative and scalable applications</li>
         <li>🌱 Constantly learning and exploring new technologies</li>
-        <li>📧 Reach me at: <strong>nayankm99e@gmail.com</strong></li>
+        <li>📧 Reach me at: <a href="mailto:nayankm99e@gmail.com"><strong>nayankm99e@gmail.com</strong></a></li>
       </ul>
       <div style="margin-left: 20px;">
-        <a href="https://drive.google.com/file/d/1NblnsZxd-DCQtyNcPOsWwWHTrQJ1vSsC/view?usp=sharing" download>
-          <img src="https://img.shields.io/badge/Resume-Download-orange?style=flat&logo=adobeacrobatreader" alt="Resume Button" width="150">
+        <a href="https://drive.google.com/file/d/1NblnsZxd-DCQtyNcPOsWwWHTrQJ1vSsC/view?usp=sharing" target="_blank" download>
+          <img src="https://img.shields.io/badge/Resume-Download-orange?style=flat&logo=adobeacrobatreader" target="_blank" alt="Resume Button" width="150">
         </a>
       </div>
     </td>
